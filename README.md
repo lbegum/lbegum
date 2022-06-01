@@ -1,3 +1,4 @@
+```python
 class Person:
   def __init__(self, name, profession, location):
     self.name = name
@@ -9,6 +10,7 @@ class Person:
 LATHIFA = Person("Lathifa Begum", \
     "Science teacher by day, aspiring software engineer by night", \
     "London")
+```
 
 <!---
 lbegum/lbegum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
